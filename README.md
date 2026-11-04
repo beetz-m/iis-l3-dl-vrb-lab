@@ -1,13 +1,13 @@
 # IIS Lecture 3 lab: the robot–world manipulation system in description logic
 
-[![Binder](https://binder.intel4coro.de/badge_logo.svg)](https://binder.intel4coro.de/v2/gh/beetz-m/binder-template/iis_l3_dl_vrb_lab?urlpath=lab/tree/iis_l3_dl/sheet3/sheet3_dl_lab.ipynb)
+[![Binder](https://binder.intel4coro.de/badge_logo.svg)](https://binder.intel4coro.de/v2/gh/beetz-m/iis-l3-dl-vrb-lab/iis-ws2026-l3-dl?urlpath=lab/tree/iis_l3_dl/sheet3/sheet3_dl_lab.ipynb)
 
 Lab for Exercise Sheet 3, Task 8, of the course *Integrated Intelligent Systems* (AICOR, University of Bremen). The
 notebook runs the course's teaching ontology of the robot–world manipulation system, every concept specialized from
 the upper ontology DUL, with the reasoner HermiT: it reproduces the lecture's nine competency questions and lets
 students extend the ontology for the cereal-box errand and query it. Java and owlready2 are preinstalled.
 
-**Launch:** [open the notebook in JupyterLab](https://binder.intel4coro.de/v2/gh/beetz-m/binder-template/iis_l3_dl_vrb_lab?urlpath=lab/tree/iis_l3_dl/sheet3/sheet3_dl_lab.ipynb) (the first launch builds the image and can take a while).
+**Launch:** [open the notebook in JupyterLab](https://binder.intel4coro.de/v2/gh/beetz-m/iis-l3-dl-vrb-lab/iis-ws2026-l3-dl?urlpath=lab/tree/iis_l3_dl/sheet3/sheet3_dl_lab.ipynb) (the first launch builds the image and can take a while).
 
 | folder | content |
 |---|---|
